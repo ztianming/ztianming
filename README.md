@@ -49,7 +49,7 @@ class WhoAmI:
 ### 💼 Where i am currently studying at
 [InnerMogoliaUniversity](https://www.imu.edu.cn/)
 
-Note: Thanks to [Rishit-dagli](https://github.com/Rishit-dagli/) :laughing:
+Note: The header image thanks to [Rishit-dagli](https://github.com/Rishit-dagli/) :laughing:
 <!--
 **ztianming/ztianming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
