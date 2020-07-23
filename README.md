@@ -3,6 +3,7 @@ Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 如果您觉得对您有用的话，请不要吝啬您手中的星星。
 -->
+<!-- The header image is created by the custom contribution, you can download the file to create your own image -->
 <a href="https://github.com/ztianming"><img src="https://github.com/ztianming/ztianming/blob/master/images/header_image.png" width="900"></a>
 
 <img align='right' src='https://github.com/ztianming/ztianming/blob/master/images/octocat-anime.gif' width='150"'>
@@ -43,13 +44,13 @@ class WhoAmI:
 |---|---|---|---|---|
 |![](https://github.com/ztianming/ztianming/blob/master/badges/html.png) | ![](https://github.com/ztianming/ztianming/blob/master/badges/javascript.svg)| | | |
 
-
+<!-- username= replace your own username-->
 ![ztianming's github stats](https://github-readme-stats.vercel.app/api?username=ztianming&hide=[%22issues%22]&show_icons=true)
 
 ### 💼 Where i am currently studying at
 [InnerMogoliaUniversity](https://www.imu.edu.cn/)
 
-Note: The header image thanks to [Rishit-dagli](https://github.com/Rishit-dagli/) :laughing:
+Note: The icons thanks to [Rishit-dagli](https://github.com/Rishit-dagli/) :laughing:
 <!--
 **ztianming/ztianming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
