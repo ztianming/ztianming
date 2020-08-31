@@ -46,7 +46,8 @@ class WhoAmI:
 
 <!-- username= replace your own username-->
 ![ztianming's github stats](https://github-readme-stats.vercel.app/api?username=ztianming&hide=[%22issues%22]&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztianming&layout=compact)](https://github.com/ztianming/ztianming/readme)  
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztianming)](https://github.com/ztianming/ztianming/readme)  -->
 访问量：![访问量](https://profile-counter.glitch.me/ztianming/count.svg)
 ### 💼 Where i am currently studying at
 [InnerMogoliaUniversity](https://www.imu.edu.cn/)
